@@ -124,11 +124,11 @@ MIT License
 
 ### Connect With Us
 
-📱 **WhatsApp**: [Chat Now](https://wa.me/6281234567890)
+📱 **WhatsApp**: [Chat Now](https://wa.me/6287864340600)
 
-🎵 **TikTok**: [@dikaofficial](https://tiktok.com/@dikaofficial)
+🎵 **TikTok**: [@dwikaakbar.xzy](https://tiktok.com/@dwikaakbar.xzy)
 
-📸 **Instagram**: [@dikaofficial](https://instagram.com/dikaofficial)
+📸 **Instagram**: [@dikadamzz](https://instagram.com/@dikadamzz)
 
 ---
 
