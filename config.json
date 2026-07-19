@@ -1,0 +1,14 @@
+{
+    "default_length": 16,
+    "default_options": {
+        "uppercase": true,
+        "lowercase": true,
+        "numbers": true,
+        "symbols": true
+    },
+    "theme": "cyberpunk",
+    "animation": true,
+    "auto_copy": false,
+    "exclude_similar": true,
+    "exclude_ambiguous": false
+}
